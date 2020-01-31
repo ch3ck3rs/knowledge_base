@@ -7,7 +7,8 @@ figures or code blocks.
 
 
 ---
-[Jupyter](https://ch3ck3rs.github.io/knowledge_base/jupyter)
+[Jupyter](https://ch3ck3rs.github.io/knowledge_base/python/jupyter)
+[Python](https://ch3ck3rs.github.io/knowledge_base/python)
 
 [Home](https://ch3ck3rs.github.io/knowledge_base)
 

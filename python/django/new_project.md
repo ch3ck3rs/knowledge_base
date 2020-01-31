@@ -21,6 +21,8 @@ add static files to your settings.py
 
 
 ---
-[Django](https://ch3ck3rs.github.io/knowledge_base/Django)
+[Django](https://ch3ck3rs.github.io/knowledge_base/python/django)
+
+[Python](https://ch3ck3rs.github.io/knowledge_base/python)
 
 [Home](https://ch3ck3rs.github.io/knowledge_base)
