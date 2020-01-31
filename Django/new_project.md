@@ -20,7 +20,7 @@ add static files to your settings.py
 
 
 
-    ---
-    [Django](https://ch3ck3rs.github.io/knowledge_base/Django)
+---
+[Django](https://ch3ck3rs.github.io/knowledge_base/Django)
 
-    [Home](https://ch3ck3rs.github.io/knowledge_base)
+[Home](https://ch3ck3rs.github.io/knowledge_base)
