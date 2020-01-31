@@ -1,6 +1,6 @@
 # index of Python stuff
 
-[Pandas](https://ch3ck3rs.github.io/knowledge_base/python/pandas.html)
+[Pandas](https://ch3ck3rs.github.io/knowledge_base/python/pandas)
 
 [Django stuff](https://ch3ck3rs.github.io/knowledge_base/python/django)
 
