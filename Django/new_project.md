@@ -16,3 +16,11 @@ add static files to your settings.py
 
     MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
     MEDIA_URL = '/media/'
+
+
+
+
+    ---
+    [Django](https://ch3ck3rs.github.io/knowledge_base/Django)
+
+    [Home](https://ch3ck3rs.github.io/knowledge_base)

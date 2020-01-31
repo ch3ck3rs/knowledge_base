@@ -5,7 +5,7 @@ If you are not a fan of the git bash command style interface, PyCharm will do ju
 
 **The basics of git are:** pull > add > commit > push
 
-- Repository (or repo) 
+- Repository (or repo)
     - this is what sits on github.com
     - it holds all the master files and is like the back up
 - pull (a fresh copy of the repo if changes were made by someone else)
@@ -22,20 +22,16 @@ To start working with an existing repo on a new machine (or in a new directory) 
 Cloning the repo will bring down all the existing docs and branches and will set you on the current HEAD of the default branch.
 
 #### git branching
-You can create a new branch of the project, play around with it, pull in updates from the master branch, make commits 
-and push to the repo without affecting the main program (like a sandbox).  When you get the new feature working on your 
+You can create a new branch of the project, play around with it, pull in updates from the master branch, make commits
+and push to the repo without affecting the main program (like a sandbox).  When you get the new feature working on your
 branch, it can then be merged back into the master.
 
 #### Git Pages
 
-
-[Home Page](https://ch3ck3rs.github.io/Goals)
-
-
 Notes
 
 - you must add a file every time you make a change to it
-    - or just wait til you want to commit, then pull > add --all > commit > push 
+    - or just wait til you want to commit, then pull > add --all > commit > push
 - git status (in the terminal will show you which files are ready to be committed, which are being tracked but will
     not be committed right now, and those which are not tracked)
 - PyCharm > Version Control > Default Change list will also tell you this
@@ -45,4 +41,8 @@ Notes
     - **white** - tracked but no edits since last commit
 
 
-[edit](https://github.com/ch3ck3rs/Goals/blob/gh-pages/2020Goals/Professional/Using-Git.md)
+
+---
+[terminal](https://ch3ck3rs.github.io/knowledge_base/terminal)
+
+[Home](https://ch3ck3rs.github.io/knowledge_base)

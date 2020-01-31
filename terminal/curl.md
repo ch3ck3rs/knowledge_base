@@ -10,3 +10,7 @@ The -F tells API that is it a multipart-form
 
 [Medium](https://medium.com/@petehouston/upload-files-with-curl-93064dcccc76)
 
+---
+[terminal](https://ch3ck3rs.github.io/knowledge_base/terminal)
+
+[Home](https://ch3ck3rs.github.io/knowledge_base)
