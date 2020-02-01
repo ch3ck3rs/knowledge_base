@@ -18,6 +18,16 @@ add static files to your settings.py
     MEDIA_URL = '/media/'
 
 
+register your app in the settings AND with the admin.  Under your app/admin.py
+file you should have something like the following:
+
+    from django.contrib import admin
+
+    # Register your models here.
+    from .models import Goal
+
+    admin.site.register(Goal)
+
 
 
 ---
