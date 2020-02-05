@@ -21,16 +21,16 @@
 ### January
 
 ##### Goals/Results
-** 1. Complete Virtual Pet Tamogotchi Project Code Development with Arcade Library**
+**1. Complete Virtual Pet Tamogotchi Project Code Development with Arcade Library**
   * Status on 1/31/2020 - *Complete*
   * Project Link - [Virtual Pet](https://github.com/ohallaatme/VirtualPet)
 
-** 2. Complete Blog Portion of Django Course to Have Blog Template to Go Off of**
+**2. Complete Blog Portion of Django Course to Have Blog Template to Go Off of**
 - Course Link - [Django 2.2 & Python | The Ultimate Web Development Bootcamp](https://www.udemy.com/course/the-ultimate-beginners-guide-to-django-django-2-python-web-dev-website/learn/lecture/9517126?start=840#overview)
   * Status on 1/31/2020 - *Complete*
   * Project Link - [Portfolio](https://github.com/ohallaatme/Portfolio)
 
-** 3. Complete and Commit Three Algorithmic Coding Challenges**
+**3. Complete and Commit Three Algorithmic Coding Challenges**
   * Status on 1/31/2020 - *Incomplete - Half Met*
     - Detail on why incomplete - Need to decide whether or not future role would require technical interview. Doing incremental code challenges is inefficient due to knowledge loss, also felt spread to thin between topics with goals.
   * Project link - [Python-BrainTeasers](https://github.com/ohallaatme/Python-BrainTeasers/tree/master/venv)
@@ -45,15 +45,15 @@
 
 ### February
 ##### Goals/Results
-** 1. Complete GitHub Commits with Polished README files and Blog Content ready for publishing for the following:**
+**1. Complete GitHub Commits with Polished README files and Blog Content ready for publishing for the following:**
 
   * VirtualPet Project from January
   * Kivy Desktop App to Store Data Science Scripts for Non-Data Science People
   * Benford's Script for Catching Fraud - *Use Kaggle Set for data*
 
-** 2. Dig into PyInstaller and Give Best Faith Effort to Package Kivy GUI Application**
+**2. Dig into PyInstaller and Give Best Faith Effort to Package Kivy GUI Application**
 
   * Completion marked by solid time spent and reaching out to GitHub/Stack Overflow/ Potentially Talk Python to Me group for solution
     - This is a challenging area for Python so may not be able to entirely solve
 
-** 3. Learn How to Write Unit Tests in Python and Write Tests For all Three Projects for Goal #1 and Include in README**
+**3. Learn How to Write Unit Tests in Python and Write Tests For all Three Projects for Goal #1 and Include in README**
