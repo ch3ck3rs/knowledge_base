@@ -11,22 +11,23 @@ add static files to your settings.py
 
     STATICFILES_FINDERS = [
     'django.contrib.staticfiles.finders.FileSystemFinder',
-    'django.contrib.staticfiles.finders.AppDirectoriesFinder',
+    'django.contrib.staticfiles.finders.AppDirectmoriesFinder',
     ]
 
     MEDIA_ROOT = os.path.join(BASE_DIR, 'media')
     MEDIA_URL = '/media/'
 
 
-register your app in the settings AND with the admin.  Under your app/admin.py
-file you should have something like the following:
+register your app in the settings AND with the admin.py file.  Under your app/admin.py file you should have something like the following:
 
     from django.contrib import admin
-
-    # Register your models here.
     from .models import Goal
 
     admin.site.register(Goal)
+
+
+Change the backend to postgreSQL ???
+
 
 
 
