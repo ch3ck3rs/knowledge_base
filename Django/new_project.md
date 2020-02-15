@@ -28,7 +28,11 @@ register your app in the settings AND with the admin.py file.  Under your app/ad
 
 Change the backend to postgreSQL ???
 
+### Models.py
 
+when setting fields in models.py
+  - null=True tells the database to allow Null value types
+  - blank=True tells the form/admin that this field is optional
 
 
 ---
