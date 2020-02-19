@@ -32,7 +32,7 @@ In short you will need to do the following:
      "language": "python",
      "argv": [
       "/home/lauren/PycharmProjects/NIU/bin/python3",
-      "-m", 
+      "-m",
       "ipykernel_launcher",
       "-f",
       "{connection_file}"
@@ -42,12 +42,12 @@ In short you will need to do the following:
 
 ### If you are on Windows...
 
-if you use Anaconda base kernel for your venv you should be good to go.
+If you use Anaconda base kernel for your venv you should be good to go.
 
-If you use the Python Foundation kernel for your venv you will need to ensure that you 
+If you use the Python Foundation kernel for your venv you will need to ensure that you
 
 
-	# in main kernel and venv	
+	# in main kernel and venv
 	pip install prompt_toolkit==2.*
 
 as version 3.* is not compatible with Jupyter as of 2/16/2020.
