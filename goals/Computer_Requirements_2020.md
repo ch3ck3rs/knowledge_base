@@ -6,11 +6,12 @@ Seeking a workhorse computer in 2020.  Main categories to consider are Processin
 
 **Processor** 
 - i7 recommended
-	- 10th gen
+	- 9th gen i7-9750H still recommended
 	- H variant for high performance 
 - ~~i9~~ NOT recommended 
 	- due to inability to properly cool in laptop form factor
 - AMD 8 core processors offer a good alternative, but not as many machine options
+- avoid intel U & Y product line, as these are low power draw variants. better battery at cost of performance
 
 **RAM** 
 - 16GB (recomended)
@@ -42,12 +43,14 @@ Seeking a workhorse computer in 2020.  Main categories to consider are Processin
 
 ## Machines Under Consideration
 
+**Beware** Intel Optane memory. still early in development and may not work as expected.  Does not work on Linux.
+
 **Lenovo c940**
 - i7-9750H
 - 16GB soldered RAM
 - 1TB SSD PCIe
 - NVIDIA GeForce 4GB
-- 15" FHD glossy
+- 15" FHD, glossy, touch
 - Battery 12hr + rapid charge
 - Wireless 802.11AX
 - Weight 4.5 lb
@@ -61,7 +64,7 @@ Seeking a workhorse computer in 2020.  Main categories to consider are Processin
 - 32 GB RAM
 - 1TB SSD PCIe NVMe
 - NVIDIA GeForce 4GB
-- 15.6" FHD anti glare
+- 15.6" FHD, anti-glare, touch
 - Battery 
 - Wireless wifi 6 AX 1650
 - Weight 4.5lb
@@ -69,4 +72,4 @@ Seeking a workhorse computer in 2020.  Main categories to consider are Processin
 - Accessories
 	- Thunderbolt
 
-**Beware** of Optane memory. still early in development and may not work as expected.  Does not work on Linux. 
+ 
