@@ -12,6 +12,10 @@ Seeking a workhorse computer in 2020.  Main categories to consider are Processin
 	- due to inability to properly cool in laptop form factor
 - AMD 8 core processors offer a good alternative, but not as many machine options
 - avoid intel U & Y product line, as these are low power draw variants. better battery at cost of performance
+- [i79750H vs i7-10710U comparison](https://youtu.be/95DSVCvWvxM)
+	- if machine can handle i7-9750H at 60W TDP it will typically perform better
+	- if compared to i7-10710U both at 45W TDP, the 10th gen is on average 5.6% better
+	- thinner machines tend to be more susceptible to thermal throttling 
 
 **RAM** 
 - 16GB (recomended)
