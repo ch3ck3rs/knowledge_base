@@ -22,7 +22,7 @@
 
 ##### Goals/Results
 
-**Push on Standard Inventory** - Seek to have the standard inventory for the USP and the RO line completed by the end of Feb.  This includes all dwgs, boms and cost rolls.   **Result** USP prodcut line was completed! RO product line is nearly completed. Minor modifications to the mechanical dwgs are under way.  The boms have been updated in SAP, however this was completed too late in the cost roll cycle and will need to be executed manually. **What is next?**
+**Push on Standard Inventory** - Seek to have the standard inventory for the USP and the RO line completed by the end of Feb.  This includes all dwgs, boms and cost rolls. <span class="text-orange">**Result**</span> USP prodcut line was completed! RO product line is nearly completed. Minor modifications to the mechanical dwgs are under way.  The boms have been updated in SAP, however this was completed too late in the cost roll cycle and will need to be executed manually. **What is next?**
 
 **Do well in School** - Stay on top of work.  **Results** I have kept up with all assignments easily and should consider taking on the additional work in the recommended section
 
