@@ -36,12 +36,32 @@ I did not accomplish as much as I would have like in Feb.  I spent a lot of time
 
 ##### Goals/Results
 
-**What is next on the Standard Product Line**
+**What is next on the Standard Product Line**  Determine the next stage of the standardization project.  **Result** Who freaking knows.  My next goal is to get the RO Kits outlined and into SAP.  The group is now moving on to work on the HI Series. 
 
-**Industry Awareness** - read one article or Situation report per week
+**Industry Awareness** - read one article or Situation Awareness Report per week  **Result**  I was not able to get to any more SARs while still in Naperville.   I have started to read articles / listen to dily marketplace podcasts to stay in touch with trends. 
 
-**Do Extra in School** - It is half way through the semester.  Start doing the extra assignments each week and take note of the additional resources.  My Current skill level is above the average, but I should not slack off.  Take advantage of time with the professor!
+**Do Extra in School** - It is half way through the semester.  Start doing the extra assignments each week and take note of the additional resources.  My Current skill level is above the average, but I should not slack off.  Take advantage of time with the professor!  **Result** Did a little extra school wise.  Most of the extra work was put toward the Ecolab/UMN Covid Collaboration and in working through the SciKit-Learn Tutorials. 
 
-**Finish Beanies** - Get them done before winter is over!
+**Finish Beanies** - Get them done before winter is over!  **Result** Due to covid-19 the PyCon Beanie because less of a priority.  I finished half of Katie's and then started working on my Father's beanie. Over all made good progress. 
 
 ##### Summary/Key Takeaways
+
+March was CRAZY!  Covid-19 had everyone working from home unexpectedly and it took a while to adjust.  The first week was more house work than actual work, but that is ok.  I finally settled into a routine of emails for 30 min after breakfast, 45 min of learning, 45 min of task that I don't want to do, then the what ever else is on my todo list.  The last 15 min of the day are used to plan out the next day.  On Friday, it is 30-40 min to close out the week and set up the next. 
+
+### April 
+
+#### Goals/Results
+
+**Standard Product Line** - Have RO kits complete and all drawings in the system.
+
+**Coding**
+
+- Scikit-Learn - complete text analysis Exercises 1 & 2 and then start to apply to the PTS parts catalog.  This month, the goal is to have the catalog training data defined. 
+- edX MIT 6.00.2X - stay current on all work
+
+**Ecolab & UMN Collaboration** It looks like I will be a team lead.  Stay current and reasses once teams are assigned. 
+
+**Knitting**  Spend at least 2 hours per week knitting.
+
+
+#### Summary/Key Takeaways
